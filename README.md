@@ -6,4 +6,4 @@ API has a following features:
 
 -User could recharge and use their balances based on a coupon.
 
--Admin could manage and setup the food item categories and their units
+-Admin could manage and setup the food item categories and their units.
