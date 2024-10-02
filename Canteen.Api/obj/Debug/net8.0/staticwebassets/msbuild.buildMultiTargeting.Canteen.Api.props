@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Canteen.Api.props" />
+</Project>

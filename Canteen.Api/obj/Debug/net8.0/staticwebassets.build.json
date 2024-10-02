@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RSM20DF5D2rf1+wo+NKCJdJzrXqkLyT1uPvPmO3bdxg=",
+  "Source": "Canteen.Api",
+  "BasePath": "_content/Canteen.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

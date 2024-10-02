@@ -1,0 +1,16 @@
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\Canteen.Data.csproj.AssemblyReference.cache
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\Canteen.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\Canteen.Data.AssemblyInfoInputs.cache
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\Canteen.Data.AssemblyInfo.cs
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\Canteen.Data.csproj.CoreCompileInputs.cache
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\Canteen.Data.sourcelink.json
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\bin\Debug\net8.0\Canteen.Data.deps.json
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\bin\Debug\net8.0\Canteen.Data.dll
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\bin\Debug\net8.0\Canteen.Data.pdb
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\bin\Debug\net8.0\Canteen.Shared.dll
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\bin\Debug\net8.0\Canteen.Shared.pdb
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\Canteen..DD4D4E90.Up2Date
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\Canteen.Data.dll
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\refint\Canteen.Data.dll
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\Canteen.Data.pdb
+C:\Users\Sandesh Limbu\Desktop\Canteen API\Canteen\Canteen.Data\obj\Debug\net8.0\ref\Canteen.Data.dll
